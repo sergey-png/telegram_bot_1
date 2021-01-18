@@ -1,2 +1,2 @@
-# telegram_bot_1
+# Telegram bot 1
 Easy telegram Bot
